@@ -230,6 +230,9 @@
   <url type="bugtracker">https://github.com/GustavoPeredo/Font-Downloader/issues</url>
   <url type="translate">https://poeditor.com/join/project?hash=hfnXv8Iw4o</url>
   <developer_name>Gustavo Peredo</developer_name>
+  <developer id="io.github.gustavoperedo">
+    <name>Gustavo Peredo</name>
+  </developer>
   <launchable type="desktop-id">org.gustavoperedo.FontDownloader.desktop</launchable>
   <content_rating type="oars-1.1"/>
   <custom>
